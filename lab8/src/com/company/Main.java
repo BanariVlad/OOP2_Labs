@@ -14,7 +14,7 @@ public class Main {
         System.out.println(customString.startWith("Hello world", "Hello"));
         System.out.println(customString.endWith("Hello world", "world"));
         System.out.println(customString.lastPosition("Hello world world world", "world"));
-        System.out.println(customString.replaceSubstr("Hello world", "world", "Andre"));
+        System.out.println(customString.replaceSubstr("Hello world", "world", "Vlad"));
         System.out.println(customString.getWordsNumber("Hello,friend-What is your name?"));
     }
 }
